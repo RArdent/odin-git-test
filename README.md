@@ -1,3 +1,3 @@
 # git_test
-My GitHub repo
-Hello, Odin!
+
+I made this repo to revise basic git commands.
